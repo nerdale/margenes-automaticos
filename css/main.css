@@ -1,0 +1,17 @@
+/* Agrega aqui tu CSS */
+.texto {
+
+	width: 200px;
+	border: 20px solid yellow;
+	padding: 50px;
+	text-align: center;
+}
+
+.texto2 {
+
+	width: 200px;
+	border: 20px solid yellow;
+	padding: 50px;
+	margin: auto;
+	text-align: left;
+}
